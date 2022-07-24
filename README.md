@@ -3,7 +3,7 @@
 This is a repository for a DJI Tello Pose controller. With this, you can use the DJI tello's camera to control your drone base on body movements. 
 Currently, this is fully functional, and working. 
 
-[YouTube Video:](https://youtu.be/Jf90af5DrIw) https://youtu.be/Jf90af5DrIw
+[YouTube Video:](https://youtu.be/xK86IWhwe3g) https://youtu.be/xK86IWhwe3g
 
 
 
